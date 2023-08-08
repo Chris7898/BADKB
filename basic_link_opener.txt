@@ -1,0 +1,16 @@
+REM     Title: Basic Link Opener
+
+REM    Author: Darkolf
+
+REM    Description: This VERY simple Bad USB script opens any link that you desire
+
+REM    Target: Windows 10, 11
+
+REM    --------------------------------------------------------------------------------------
+REM     THIS PAYLOAD IS PLUG AND PLAY. NO MODIFICATIONS NEEDED SIMPLY RUN THE CODE DOWN BELOW.
+REM     --------------------------------------------------------------------------------------
+
+GUI r
+DELAY 420
+STRING https://youtube.com/@darkwolfvr
+ENTER
